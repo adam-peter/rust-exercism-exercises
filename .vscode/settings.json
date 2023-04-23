@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./gigasecond/Cargo.toml"
+  ]
+}
